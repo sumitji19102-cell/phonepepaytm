@@ -247,7 +247,7 @@ export default function Page() {
         </div>
 
         {/* IMAGE */}
-        <div className="flex justify-center mb-3">
+        <div className="flex justify-center ">
 
           <img
             src="https://i.ibb.co/4nZyL5xZ/Chat-GPT-Image-May-6-2026-03-14-49-PM-removebg-preview.png"
