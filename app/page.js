@@ -129,14 +129,12 @@ export default function Page() {
         <div className="flex items-center text-[13px] text-gray-400 font-bold tracking-wide mt-1">
 
           {/* LEFT */}
-          <span className="flex items-center ">
-            <span className="min-w-[80px] tracking-wide font-bold">
-              Sent to
-            </span>
+          <span className="min-w-[85px] flex justify-between">
 
-            <span className="tracking-wide font-bold">
-              :
-            </span>
+            <span>Sent to</span>
+
+            <span className="ml-16">:</span>
+
           </span>
 
           {/* RIGHT */}
