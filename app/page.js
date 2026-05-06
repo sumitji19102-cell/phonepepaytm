@@ -208,11 +208,11 @@ export default function Page() {
       </div>
 
       {/* FOOTER */}
-      <div className="text-center text-[10px] text-gray-500 mt-5 flex flex-col items-center">
+      <div className="text-center text-[10px] text-gray-400 mt-5 flex flex-col items-center">
         <span>Powered by</span>
         <img
           src="https://i.ibb.co/ZzNzJVZ8/Chat-GPT-Image-Apr-30-2026-04-24-56-PM-1.png"
-          className="w-[100px] mt-[-2px]"
+          className="w-[110px] mt-[-2px]"
         />
       </div>
 
