@@ -98,11 +98,10 @@ export default function Page() {
         <div className="flex items-center text-[12px] text-gray-400 font-normal mt-1">
 
           {/* LEFT */}
-          <span className="min-w-[85px] flex justify-between">
-            <span>Sent to</span>
-            <span className="ml-11">:</span>
-          </span>
-
+          <span className="flex items-center ">
+  <span className="min-w-[80px]">Sent to</span>
+  <span>:</span>
+</span>
           {/* RIGHT */}
           <div className="flex items-center">
             <img
