@@ -49,7 +49,7 @@ export default function Page() {
           <FiArrowLeft className="text-[22px]" />
           <div>
             <div className="text-[16px] font-semibold">
-              Transaction Successful
+              Transaction Successfull
             </div>
             <div className="text-[13px] opacity-90 font-normal mt-[-5px]">
               {dateTime}
@@ -59,7 +59,7 @@ export default function Page() {
       </div>
 
       {/* CARD */}
-      <div className="mt-2 bg-[#151515] rounded-[14px] p-3 px-4 mx-2 ">
+      <div className="mt-2 bg-[#212121] rounded-[14px] p-3 px-4 mx-2 ">
 
         <div className="text-[15px] font-bold">Paid to</div>
 
