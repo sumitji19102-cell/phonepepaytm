@@ -106,7 +106,7 @@ export default function Page() {
           <div className="flex items-center">
             <img
               src="https://i.ibb.co/k6JRhrhp/Chat-GPT-Image-May-2-2026-09-26-28-AM-removebg-preview.png"
-              className="w-[40px] ml-1 mr-1"
+              className="w-[44px] ml-1 mr-1"
             />
 
             <span className="mr-1">•</span>
