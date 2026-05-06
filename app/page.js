@@ -49,7 +49,7 @@ export default function Page() {
           <FiArrowLeft className="text-[22px]" />
           <div>
             <div className="text-[16px] font-semibold">
-              Transaction Successfull
+              Transaction Successful
             </div>
             <div className="text-[13px] opacity-90 font-normal mt-[-5px]">
               {dateTime}
