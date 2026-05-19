@@ -284,7 +284,7 @@ export default function Page() {
 
         <img
           src="https://i.ibb.co/Kp5QFKVR/1000045820-removebg-preview.png"
-          className="w-[110px] mt-[-2px]"
+          className="w-[110px] "
         />
 
       </div>
