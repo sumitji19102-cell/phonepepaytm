@@ -283,7 +283,7 @@ export default function Page() {
         </span>
 
         <img
-          src="https://i.ibb.co/ZzNzJVZ8/Chat-GPT-Image-Apr-30-2026-04-24-56-PM-1.png"
+          src="https://i.ibb.co/Kp5QFKVR/1000045820-removebg-preview.png"
           className="w-[110px] mt-[-2px]"
         />
 
