@@ -93,7 +93,7 @@ export default function Page() {
               {name}
             </div>
 
-            <div className="text-[13px] text-[#34ebcf] font-bold tracking-wide">
+            <div className="text-[13px] text-[#a6b3b1] font-bold tracking-wide">
               {upi}
             </div>
 
