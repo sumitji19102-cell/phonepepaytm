@@ -60,7 +60,7 @@ export default function Page() {
 
           <div>
 
-            <div className="text-[16px] font-bold tracking-wide">
+            <div className="text-[16px] font-extrabold tracking-wide">
               Transaction Successful
             </div>
 
@@ -93,7 +93,7 @@ export default function Page() {
               {name}
             </div>
 
-            <div className="text-[13px] text-gray-400 font-bold tracking-wide">
+            <div className="text-[13px] text-[#34ebcf] font-bold tracking-wide">
               {upi}
             </div>
 
