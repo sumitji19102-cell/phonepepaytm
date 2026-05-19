@@ -47,7 +47,7 @@ export default function Page() {
   }, []);
 
   return (
-    <div className="bg-black min-h-screen font-sans text-white font-bold tracking-wide">
+    <div className="bg-[#0d0d0d] min-h-screen font-sans text-white font-bold tracking-wide">
 
       <meta name="theme-color" content="#2ad11e" />
 
@@ -283,8 +283,8 @@ export default function Page() {
         </span>
 
         <img
-          src="https://i.ibb.co/ZzNzJVZ8/Chat-GPT-Image-Apr-30-2026-04-24-56-PM-1.png"
-          className="w-[110px] mt-[-2px]"
+          src="https://i.ibb.co/Kp5QFKVR/1000045820-removebg-preview.png"
+          className="w-[110px] mt-[-15px] "
         />
 
       </div>
