@@ -47,7 +47,7 @@ export default function Page() {
   }, []);
 
   return (
-    <div className="bg-black min-h-screen font-sans text-white font-bold tracking-wide">
+    <div className="bg-[#0d0d0d] min-h-screen font-sans text-white font-bold tracking-wide">
 
       <meta name="theme-color" content="#2ad11e" />
 
