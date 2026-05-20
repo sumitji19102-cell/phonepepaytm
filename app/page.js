@@ -105,9 +105,10 @@ export default function Page() {
 
         </div>
 
-        <div className="flex justify-center my-3">
-          <div className="h-[1px] w-[370px] bg-[#bdbdbd]"></div>
-        </div>
+            <div className="flex justify-center my-3">
+  <div className="h-[0.2px] w-[370px] bg-[#bdbdbd]/40"></div>
+</div>
+
 
         {/* BANK */}
         <div className="flex items-center text-[13px] text-[#bdbdbd] font-bold tracking-wide">
@@ -157,9 +158,10 @@ export default function Page() {
 
         </div>
 
-        <div className="flex justify-center my-3">
-          <div className="h-[1px] w-[370px] bg-[#bdbdbd]"></div>
-        </div>
+           <div className="flex justify-center my-3">
+  <div className="h-[0.2px] w-[370px] bg-[#bdbdbd]/40"></div>
+</div>
+
 
         {/* TRANSFER */}
         <div className="flex justify-between items-center mt-4">
