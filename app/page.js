@@ -134,7 +134,7 @@ export default function Page() {
 
             <span>Sent to</span>
 
-            <span className="ml-">:</span>
+            <span className="ml-16">:</span>
 
           </span>
 
