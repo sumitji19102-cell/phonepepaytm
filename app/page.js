@@ -99,7 +99,7 @@ export default function Page() {
 
           </div>
 
-          <div className="text-[17px] font-bold tracking-wide">
+          <div className="text-[17px] font-extrabold tracking-wide">
             ₹15
           </div>
 
@@ -115,7 +115,7 @@ export default function Page() {
 
           Banking N... :
 
-          <span className="ml-2 text-[13px] text-gray-400 font-bold tracking-wide">
+          <span className="ml-2 text-[13px] text-[#bdbdbd] font-bold tracking-wide">
             {name}
           </span>
 
@@ -221,7 +221,7 @@ export default function Page() {
                 XXXXXXX4987
               </div>
 
-              <div className="font-bold text-[17px] tracking-wide">
+              <div className="font-extrabold text-[17px] tracking-wide">
                 ₹15
               </div>
 
