@@ -93,7 +93,7 @@ export default function Page() {
               {name}
             </div>
 
-            <div className="text-[13px] text-[#d4c5c5] font-bold tracking-wide">
+            <div className="text-[13px] text-[#bdbdbd] font-bold tracking-wide">
               {upi}
             </div>
 
@@ -112,7 +112,7 @@ export default function Page() {
         {/* BANK */}
         <div className="flex items-center text-[13px] text-[#bdbdbd] font-bold tracking-wide">
 
-          Banking Name :
+          Banking N... :
 
           <span className="ml-2 text-[13px] text-gray-400 font-bold tracking-wide">
             {name}
