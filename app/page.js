@@ -106,7 +106,7 @@ export default function Page() {
         </div>
 
         <div className="flex justify-center my-3">
-          <div className="h-[1px] w-[370px] bg-gray-700"></div>
+          <div className="h-[1px] w-[370px] bg-[#bdbdbd]"></div>
         </div>
 
         {/* BANK */}
@@ -126,7 +126,7 @@ export default function Page() {
         </div>
 
         {/* SENT TO */}
-        <div className="flex items-center text-[13px] text-gray-400 font-bold tracking-wide mt-1">
+        <div className="flex items-center text-[13px] text-[#bdbdbd] font-bold tracking-wide mt-1">
 
           {/* LEFT */}
           <span className="min-w-[85px] flex justify-between">
@@ -182,7 +182,7 @@ export default function Page() {
         </div>
 
         {/* TXN */}
-        <div className="mt-3 text-[14px] text-gray-400 font-bold tracking-wide">
+        <div className="mt-3 text-[14px] text-[#bdbdbd] font-bold tracking-wide">
           Transaction ID
         </div>
 
@@ -200,7 +200,7 @@ export default function Page() {
         </div>
 
         {/* DEBIT */}
-        <div className=" text-[14px] text-gray-400 font-bold tracking-wide">
+        <div className=" text-[14px] text-[#bdbdbd] font-bold tracking-wide">
           Debited from
         </div>
 
@@ -227,7 +227,7 @@ export default function Page() {
 
             <div className="flex justify-between mt-1 ml-2 ">
 
-              <div className="text-[16px] text-gray-400 font-bold tracking-wide">
+              <div className="text-[16px] text-[#bdbdbd] font-bold tracking-wide">
                 UTR: {utr}
               </div>
 
@@ -276,7 +276,7 @@ export default function Page() {
       </div>
 
       {/* FOOTER */}
-      <div className="text-center text-[13px] text-gray-400 mt-5 flex flex-col items-center font-bold tracking-wide">
+      <div className="text-center text-[13px] text-[#bdbdbd] mt-5 flex flex-col items-center font-bold tracking-wide">
 
         <span className="tracking-wide font-bold">
           Powered by
