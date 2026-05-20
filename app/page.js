@@ -110,7 +110,7 @@ export default function Page() {
         </div>
 
         {/* BANK */}
-        <div className="flex items-center text-[13px] text-gray-400 font-bold tracking-wide">
+        <div className="flex items-center text-[13px] text-[#bdbdbd] font-bold tracking-wide">
 
           Banking Name :
 
