@@ -158,7 +158,7 @@ export default function Page() {
         </div>
 
         <div className="flex justify-center my-3">
-          <div className="h-[1px] w-[370px] bg-gray-700"></div>
+          <div className="h-[1px] w-[370px] bg-[#bdbdbd]"></div>
         </div>
 
         {/* TRANSFER */}
@@ -243,7 +243,7 @@ export default function Page() {
         </div>
 
         <div className="flex justify-center my-3">
-          <div className="h-[1px] w-[370px] bg-gray-700"></div>
+          <div className="h-[1px] w-[370px] bg-[#bdbdbd]"></div>
         </div>
 
         {/* IMAGE */}
