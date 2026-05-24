@@ -139,23 +139,28 @@ export default function Page() {
           </span>
 
           {/* RIGHT */}
-          <div className="flex items-center">
+         <div className="flex items-center">
+  <img
+    src="https://i.ibb.co/k6JRhrhp/Chat-GPT-Image-May-2-2026-09-26-28-AM-removebg-preview.png"
+    className="w-[44px] ml-1 mr-1"
+  />
 
-            <img
-              src="https://i.ibb.co/k6JRhrhp/Chat-GPT-Image-May-2-2026-09-26-28-AM-removebg-preview.png"
-              className="w-[44px] ml-1 mr-1"
-            />
+  <span className="mr-1 tracking-wide font-bold">
+    •
+  </span>
 
-            <span className="mr-1 tracking-wide font-bold">
-              •
-            </span>
+  <span className="tracking-wide font-bold">
+    {(() => {
+      // जहाँ लगातार 10 digit मिलेंगे,
+      // वहाँ पहले 6 digit hide होंगे
+      const hiddenUpi = upi.replace(/\d{10}/g, (match) => {
+        return "XXXXXX" + match.slice(6);
+      });
 
-            <span className="tracking-wide font-bold">
-              {"XXXXXX" + upi.slice(6)}
-            </span>
-
-          </div>
-
+      return hiddenUpi;
+    })()}
+  </span>
+</div>
         </div>
 
            <div className="flex justify-center my-3">
